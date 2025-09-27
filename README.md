@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kafka, Spring Cloud, Redis**
 - 💬 Ask me about **Spring Framework, Microservices**
-- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1EP3T7LX01XRmES3uFtkrJYhmsrk-KLNm/view?usp=drive_link)
+- 📄 Know about my experiences in [RESUME]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
